@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Sulv&#39;s Blog</title>
-    <link>https://xyming108.github.io/</link>
-    <description>Recent content on Sulv&#39;s Blog</description>
+    <title>钻钻&#39;s Blog</title>
+    <link>https://realzuanzuan.github.io/</link>
+    <description>Recent content on 钻钻&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 04 Dec 2023 15:39:25 +0800</lastBuildDate><atom:link href="https://xyming108.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Dec 2023 15:39:25 +0800</lastBuildDate><atom:link href="https://realzuanzuan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://xyming108.github.io/posts/my-first-post/</link>
+      <link>https://realzuanzuan.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 04 Dec 2023 15:39:25 +0800</pubDate>
       
-      <guid>https://xyming108.github.io/posts/my-first-post/</guid>
+      <guid>https://realzuanzuan.github.io/posts/my-first-post/</guid>
       <description>为什么突然重新弄博客 这两年由于各种原因,微博被封好几个号,但是本人又有一定的倾诉欲,不管是微博还是推特还是微信或者是其他平台, 在上面发言都会有各种自我阉割的想法产生,所以重启博客. 由于本人技术原因,过去的博客没有迁移成功,因为hexo里面的源文件找不到了.随想没迁移成功也是在和过</description>
     </item>
     
     <item>
       <title>🤝友链</title>
-      <link>https://xyming108.github.io/links/</link>
+      <link>https://realzuanzuan.github.io/links/</link>
       <pubDate>Sat, 06 Nov 2021 15:15:53 +0800</pubDate>
       
-      <guid>https://xyming108.github.io/links/</guid>
+      <guid>https://realzuanzuan.github.io/links/</guid>
       <description>Sulv&amp;#39;s Blog 一个记录技术、阅读、生活的博客 👉友链格式 名称： Sulv&amp;rsquo;s Blog 网址： https://www.sulvblog.cn 图标： https://www.sulvblog.cn/img/Q.gif 描述： 一个记录技术、阅读、生活的博客 👉友链申请要求 秉承互换友链原则、文章定期更新、不能有太多广告、个人描述字数控制在15字内 👉Hugo博客交流群 787018782</description>
     </item>
     
     <item>
       <title>🙋🏻‍♂️关于</title>
-      <link>https://xyming108.github.io/about/</link>
+      <link>https://realzuanzuan.github.io/about/</link>
       <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
       
-      <guid>https://xyming108.github.io/about/</guid>
+      <guid>https://realzuanzuan.github.io/about/</guid>
       <description></description>
     </item>
     
