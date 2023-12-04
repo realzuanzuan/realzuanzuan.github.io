@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://realzuanzuan.github.io/en/posts/think/</loc>
-  </url><url>
     <loc>https://realzuanzuan.github.io/en/posts/</loc>
+    <lastmod>2023-12-04T15:39:25+08:00</lastmod>
+  </url><url>
+    <loc>https://realzuanzuan.github.io/en/posts/my-first-post/</loc>
+    <lastmod>2023-12-04T15:39:25+08:00</lastmod>
+  </url><url>
+    <loc>https://realzuanzuan.github.io/en/</loc>
+    <lastmod>2023-12-04T15:39:25+08:00</lastmod>
+  </url><url>
+    <loc>https://realzuanzuan.github.io/en/posts/think/</loc>
   </url><url>
     <loc>https://realzuanzuan.github.io/en/posts/tech/</loc>
   </url><url>
     <loc>https://realzuanzuan.github.io/en/categories/</loc>
   </url><url>
     <loc>https://realzuanzuan.github.io/en/tags/</loc>
-  </url><url>
-    <loc>https://realzuanzuan.github.io/en/</loc>
   </url><url>
     <loc>https://realzuanzuan.github.io/en/posts/life/</loc>
   </url><url>
