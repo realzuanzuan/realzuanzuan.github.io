@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://realzuanzuan.github.io/posts/life/</loc>
+    <lastmod>2023-12-15T18:38:47+08:00</lastmod>
+  </url><url>
     <loc>https://realzuanzuan.github.io/posts/</loc>
     <lastmod>2023-12-15T18:38:47+08:00</lastmod>
   </url><url>
-    <loc>https://realzuanzuan.github.io/posts/%E5%B0%8F%E7%B1%B3%E7%94%B5%E8%A7%86%E8%BF%9E%E6%8E%A5macos/</loc>
+    <loc>https://realzuanzuan.github.io/posts/life/%E5%B0%8F%E7%B1%B3%E7%94%B5%E8%A7%86%E8%BF%9E%E6%8E%A5macos/</loc>
     <lastmod>2023-12-15T18:38:47+08:00</lastmod>
   </url><url>
     <loc>https://realzuanzuan.github.io/</loc>
@@ -23,24 +26,22 @@
     <loc>https://realzuanzuan.github.io/about/</loc>
     <lastmod>2021-11-06T14:57:28+08:00</lastmod>
   </url><url>
-    <loc>https://realzuanzuan.github.io/categories/</loc>
-  </url><url>
     <loc>https://realzuanzuan.github.io/series/</loc>
+  </url><url>
+    <loc>https://realzuanzuan.github.io/posts/io/</loc>
   </url><url>
     <loc>https://realzuanzuan.github.io/tags/</loc>
   </url><url>
-    <loc>https://realzuanzuan.github.io/posts/blog/</loc>
+    <loc>https://realzuanzuan.github.io/categories/</loc>
   </url><url>
     <loc>https://realzuanzuan.github.io/posts/work/</loc>
   </url><url>
-    <loc>https://realzuanzuan.github.io/posts/life/</loc>
+    <loc>https://realzuanzuan.github.io/posts/blog/</loc>
   </url><url>
     <loc>https://realzuanzuan.github.io/archives/</loc>
   </url><url>
-    <loc>https://realzuanzuan.github.io/posts/think/</loc>
-  </url><url>
     <loc>https://realzuanzuan.github.io/search/</loc>
   </url><url>
-    <loc>https://realzuanzuan.github.io/posts/io/</loc>
+    <loc>https://realzuanzuan.github.io/posts/think/</loc>
   </url>
 </urlset>
